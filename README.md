@@ -5,6 +5,7 @@
 **New to this project? Start here:**
 - **📋 [Complete Setup Instructions](SETUP_INSTRUCTIONS.md)** - Detailed step-by-step guide
 - **⚡ [Quick Start Guide](QUICK_START.md)** - Essential steps only (30 minutes)
+- **🌟 [Eclipse IDE Setup](ECLIPSE_SETUP.md)** - Complete Eclipse development setup
 
 **Video Tutorial:**
 - Youtube Video for introduction, demo and setup: https://www.youtube.com/watch?v=RgQG0_orFpM

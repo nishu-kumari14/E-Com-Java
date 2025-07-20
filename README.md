@@ -14,10 +14,16 @@ This is an E-Commerce Website built for selling electronics products online with
 
 ## 🎯 Additional Demo Applications
 
-This project also includes educational Java demo applications:
+This project includes educational Java demo applications with modular structure:
 
-- **🏦 [Bank Management System](src/com/shashi/demo/BankSystem.java)** - Console-based banking operations (accounts, deposits, withdrawals)
-- **📚 [Library Management System](src/com/shashi/demo/LibraryManagementSystem.java)** - Complete library operations (books, members, transactions)
+- **🏦 [Bank Management System](src/com/shashi/demo/bank/)** - Modular banking application (Account creation, deposits, withdrawals)
+- **📚 [Library Management System](src/com/shashi/demo/library/)** - Comprehensive library management (Books, members, transactions)
+
+**Features:**
+- **Modular Design** - Separate classes for better organization
+- **Object-Oriented** - Demonstrates OOP principles
+- **Console-Based** - Interactive menu-driven applications
+- **Educational** - Perfect for learning Java fundamentals
 
 👉 **[View Demo Applications Guide](src/com/shashi/demo/README.md)** for detailed instructions on running these applications.
 

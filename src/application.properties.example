@@ -1,0 +1,16 @@
+# Database Configuration
+# Copy this file to application.properties and update with your actual database credentials
+
+# MySQL Database Configuration
+db.driver=com.mysql.cj.jdbc.Driver
+db.url=jdbc:mysql://localhost:3306/shopping_cart?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+db.username=your_database_username
+db.password=your_database_password
+
+# Email Configuration (Optional)
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+mail.username=your_email@gmail.com
+mail.password=your_email_password
